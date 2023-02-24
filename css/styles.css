@@ -1,0 +1,167 @@
+
+
+.container-fluid {
+    padding: 3% 15% 0%;
+    
+
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+     padding: 20rem 4 0rem 0rem;
+    font-weight : 30rem;
+
+
+}
+
+
+
+.navbar {
+    
+    padding-bottom: 0  6.5rem;
+}
+
+h1 {
+    font-family:  "monserrat-black";
+    font-size: 3rem;
+    line-height: 1.5;
+    
+
+}
+
+h2 {
+    font-family: "montserrat-bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 { 
+    font-family: "montserrat-bold";
+
+}
+
+p {
+    color: #5f5e5e
+}
+
+body{
+    font-family: "montserrat";
+
+}
+/* navigation bar */
+.navbar-brand {
+    font-family: "ubuntu";
+    font-size: 2.5 rem;
+    font-weight: bold ;
+    
+    
+}
+
+.nav-iten {
+     padding: 0 18 0 0rem; 
+}
+.nav-link{
+    font-size: 1.2 rem ;
+    font-weight: 3rem;
+}
+/* download burrons */
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+/* title-image */
+.title-image {
+  
+    
+    padding-top: 3rem;
+    width: 50%;
+    transform: rotate(25deg);
+    right: 40%;
+
+   
+    
+
+}
+/* featuressecion */
+#features {
+    background-color: #fff;
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
+
+ 
+}
+.row{
+    padding-top: 3rem;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+
+}
+.icon:hover {
+    color: #ff4c68;
+
+}
+
+/* testimonials section */
+#testimonials {
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;  
+}
+/* press sectiom */
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 16%;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 50px;
+}
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+#cta{
+    font-family:  "montserrat-bold";
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+    font-weight : 30rem;
+    
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#footer {
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+
+}
