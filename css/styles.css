@@ -10,7 +10,7 @@
     background-color: #ff4c68;
     background-image: linear-gradient(180deg, red, yellow);
     color: #fff;
-     padding: 20rem 4 0rem 0rem;
+     padding: 3rem 4 0rem 0rem;
     font-weight : 30rem;
 
 
@@ -154,6 +154,7 @@ body{
     font-family:  "montserrat-bold";
     text-align: center;
     background-color: #ff4c68;
+    background-image: linear-gradient(180deg, red, yellow);
     color: #fff;
     font-weight : 30rem;
     
@@ -162,7 +163,7 @@ body{
 }
 #footer {
     text-align: center;
-    background-color: #ff4c68;
+    background-color: yellow;
     color: #fff;
 
 }
