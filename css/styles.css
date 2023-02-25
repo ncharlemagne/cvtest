@@ -8,8 +8,9 @@
 
 #title {
     background-color: #ff4c68;
+    background-image: linear-gradient(180deg, red, yellow);
     color: #fff;
-     padding: 3 rem 4 0rem 0rem;
+     padding: 20rem 4 0rem 0rem;
     font-weight : 30rem;
 
 
